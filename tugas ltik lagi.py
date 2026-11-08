@@ -1,0 +1,9 @@
+import numpy as np
+suhu_celcius = np.array([28.5, 29.0, 31.2, 30.0, 32.5, 33.0, 27.8, 29.5, 30.8, 32.1])
+# rumus fahreinheit = °F = (°C × 9/5) + 32
+suhu_fahrenheit = (suhu_celcius * 9/5) + 32 
+
+print("Suhu dalam Celcius (10 hari):")
+print(suhu_celcius)
+print("\nHasil Konversi ke Fahrenheit:")
+print(suhu_fahrenheit)
