@@ -1,3 +1,3 @@
 branch milik ahmad 
 
-ini file yang di merge dari branch ahmad
+ini file yang di merge dari branchnya ahmad
